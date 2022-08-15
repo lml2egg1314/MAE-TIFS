@@ -1,0 +1,1 @@
+matlab -nosplash -nodesktop -r test_mae_same
